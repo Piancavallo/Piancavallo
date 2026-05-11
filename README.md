@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Piancavallo
-- 👀 I’m interested in people, places, and thiiiings
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on my first ever coding project??! 
-- 📫 How to reach me ... connerthepm@gmail.com
+Hi, I’m @Piancavallo
+I just got my B.S. in Comp Sci/cyber security in May 2026. 
+You can reach me at connerthepm@gmail.com
 
 <!---
 Piancavallo/Piancavallo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
