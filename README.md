@@ -1,5 +1,5 @@
 Hi, I’m @Piancavallo
-- I just got my B.S. in Comp Sci/cyber security in May 2026. 
+- I earned a B.S. in Comp Scienc in 2026. 
 - You can reach me at connerthepm@gmail.com
 
 <!---
